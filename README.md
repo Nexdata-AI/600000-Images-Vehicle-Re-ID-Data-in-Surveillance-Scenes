@@ -24,7 +24,6 @@ the image data format is .jpg, the annotation file format is .json
 ## Annotation content
 rectangular bounding boxes of vehicles
 ## Accuracy
-a rectangular bounding box of vehicle is qualified when the deviation is not more than 3 pixels, and the qualified rate of the bounding boxes shall not be
-
+a rectangular bounding box of vehicle is qualified when the deviation is not more than 3 pixels, and the qualified rate of the bounding boxes shall not be lower than 97%
 # Licensing Information
 Commercial License
