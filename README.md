@@ -3,7 +3,7 @@
 ## Description
 600,000 Images – Vehicle Re-ID Data in Surveillance Scenes. The collecting scenes of this dataset include outdoor roads (highways, road bayonets, urban roads, etc.). The data diversity includes different cameras, multiple outdoor scenes, multiple time periods. For annotation, rectangular bounding boxes of vehicles were annotated. The data can be used for tasks such as vehicle re-id in surveillance scenes.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1111?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/computervision/1111?source=Github
 
 
 # Specifications
